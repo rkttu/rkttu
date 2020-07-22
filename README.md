@@ -13,13 +13,21 @@
 
 👋 Nice to see you! I will update my introduce soon.
 
-- Seoul, S. Korea
+#### Summary
+
+- I'm living in Seoul, S. Korea
+- I'm interested in C#, .NET, Windows Container, Microsoft Azure
+- I’m currently working on [DEVSISTERS](https://github.com/devsisters)
+- I’m currently learning technical writing and communication.
+- How to reach me: rkttu at rkttu dot com
+
+#### My Profile
+
 - [Microsoft MVP since 2009](https://mvp.microsoft.com/en-us/PublicProfile/4024633)
-- C#, .NET, Windows Container, Microsoft Azure
-
-- 🔭 I’m currently working on [DEVSISTERS](https://github.com/devsisters)
-- 🌱 I’m currently learning technical writing and communication.
-- 📫 How to reach me: rkttu at rkttu dot com
-
-- [Medium](https://medium.com/rkttu)
 - [LinkedIn](https://www.linkedin.com/in/jeonghyun-nam/)
+
+#### My Footsteps on the Web
+
+- [Beyond Windows, English Edition](https://medium.com/rkttu)
+- [Beyond Windows, Korean Edition](https://medium.com/beyond-the-windows-korean-edition)
+- [DEVSISTERS Tech Blog, Korean](https://tech.devsisters.com)
