@@ -28,6 +28,5 @@
 
 #### My Footsteps on the Web
 
-- [Beyond Windows, English Edition](https://medium.com/rkttu)
-- [Beyond Windows, Korean Edition](https://medium.com/beyond-the-windows-korean-edition)
+- [medium.com](https://medium.com/@rkttu)
 - [DEVSISTERS Tech Blog, Korean](https://tech.devsisters.com)
