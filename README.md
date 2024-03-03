@@ -1,4 +1,4 @@
-### Jung Hyun, Nam - Technical Writer & Software Developer
+### Jung Hyun, Nam - Software Developer & Technical Writer
 
 ```text
  █████   █████          ████  ████                   █████    █████                                  ███
@@ -17,7 +17,6 @@
 
 - I'm living in Seoul, S. Korea
 - I'm interested in C#, .NET, Windows Container, Microsoft Azure
-- I’m currently working on [DEVSISTERS](https://github.com/devsisters)
 - I’m currently learning technical writing and communication.
 - How to reach me: rkttu at rkttu dot com
 
@@ -29,4 +28,3 @@
 #### My Footsteps on the Web
 
 - [medium.com](https://medium.com/@rkttu)
-- [DEVSISTERS Tech Blog, Korean](https://tech.devsisters.com)
