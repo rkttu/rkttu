@@ -1,4 +1,5 @@
-### Hi there, I'm Jung Hyun Nam (Nam) 👋
+### Hi there, I'm Jung Hyun Nam (He/Him) 👋
+
 #### 16-year Microsoft MVP (since 2009) | Solution Architect | Founder of dotnetdev
 
 I am a versatile **Software Professional** with over **23 years of experience (since 2002)**. My career spans a wide range of technical roles, including **Technical Writer**, **Solution Architect**, **Backend Engineer**, and **Desktop Application Developer**.
