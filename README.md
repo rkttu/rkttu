@@ -48,9 +48,11 @@ Currently, I work as a Solution Architect at **Megazone Cloud**, specializing in
 ### 🔭 Featured Projects
 
 #### 🛡️ Security & Utility
-* **[TableCloth](https://github.com/rkttu/TableCloth)** (Primary Project)
+* **[TableCloth](https://github.com/yourtablecloth/TableCloth)** (Primary Project)
   * *Description*: A sandbox tool that isolates Korean internet banking security programs using **Windows Sandbox**.
   * *Tech*: WPF, Windows Sandbox API, .NET
+  * *Media Coverage*: Featured in **ETNews** for its impact on improving banking security experience.
+    👉 *[Read the Article (Korean)](https://www.etnews.com/20231013000164)*
 * **[AdmxPolicyManager](https://github.com/rkttu/AdmxPolicyManager)**
   * *Description*: A library for managing Windows Group Policy (GPO) programmatically.
 
