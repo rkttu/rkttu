@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>소프트웨어 엔지니어 · 도큐먼트 엔지니어 · Microsoft MVP (2009~)</strong><br/>
-  <em>개발 도구와 MCP 서버를 만들고, 오픈소스를 공개하고, 한국 최대 규모 .NET 커뮤니티를 운영합니다.</em>
+  <em>.NET, 클라우드, AI를 잇는 오픈소스와 개발 도구를 만들고, 한국 최대 규모 .NET 커뮤니티를 이끕니다.</em>
 </p>
 
 <p align="center">
