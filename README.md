@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>Solution Architect · 17-Year Microsoft MVP · Open Source Creator</strong><br/>
-  <em>Building the bridge between .NET, Cloud, and AI — for over two decades.</em>
+  <strong>Software Engineer · Documentation Engineer · Microsoft MVP since 2009</strong><br/>
+  <em>.NET ecosystem builder — dev tools, MCP servers, open-source projects & Korea's largest .NET community.</em>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ What sets me apart is the **breadth × depth** combination: I don't just *use* p
 | --- | --- |
 | 🏅 **17 consecutive years** | Microsoft MVP for Developer Technologies (2009 – Present) |
 | 💼 **24 years** | Professional software engineering experience (since 2002) |
-| 🌏 **Korea's #1** | Founded **[dotnetdev](https://github.com/dotnetdev-kr)**, the largest .NET developer community in Korea |
+| 🌏 **Korea's #1** | Founded **[.NET Dev](https://github.com/dotnetdev-kr)**, the largest .NET developer community in Korea |
 | 📦 **Multiple NuGet packages** | Published and actively maintained on nuget.org |
 | 📰 **Media featured** | ETNews, Notion Customer Stories (global best practice) |
 | 🤖 **AI tooling creator** | MCP servers, RAG pipelines, AI-assisted developer workflows |
@@ -105,7 +105,7 @@ Created **[TableCloth](https://github.com/yourtablecloth/TableCloth)**, a sandbo
 | Project | Description |
 | --- | --- |
 | **[HandMirrorMcp](https://github.com/rkttu/HandMirrorMcp)** | An MCP server that lets AI coding agents **inspect actual .NET assemblies and NuGet packages** — eliminating API hallucination. Built with Mono.Cecil, ships as a dotnet tool. *"Look before you code."* |
-| **[Reconsidered RAG](https://github.com/rkttu/reconsidered_rag)** | A production RAG pipeline that **separates data preparation from embedding**. Documents → Markdown (inspectable) → Parquet (re-embeddable). *"Prepare first, embed last."* |
+| **Reconsidered RAG (private)** | Original author of a RAG architecture that decouples document preparation from embedding. "Prepare first, embed last." — [Read the architecture rationale →](https://gist.github.com/rkttu/091142aed5c7db91b1c65cb55277cd38) |
 
 #### 📄 Document Processing
 
