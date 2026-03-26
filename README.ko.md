@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mvp.microsoft.com/ko-KR/MVP/profile/335b80b4-3c9a-e411-93f2-9cb65495d3c4"><img src="https://img.shields.io/badge/Microsoft_MVP-17년_연속-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="MVP"/></a>
-  <a href="https://github.com/dotnetdev-kr"><img src="https://img.shields.io/badge/dotnetdev-커뮤니티_설립자-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnetdev"/></a>
+  <a href="https://mvp.microsoft.com/ko-KR/MVP/profile/335b80b4-3c9a-e411-93f2-9cb65495d3c4"><img src="https://img.shields.io/badge/Microsoft_MVP-since_2009-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="MVP"/></a>
+  <a href="https://github.com/dotnetdev-kr"><img src="https://img.shields.io/badge/.NET%20DEV-커뮤니티_설립자-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnetdev"/></a>
   <a href="https://devwrite.ai"><img src="https://img.shields.io/badge/블로그-devwrite.ai-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
   <a href="https://www.linkedin.com/in/rkttu"><img src="https://img.shields.io/badge/LinkedIn-rkttu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/sponsors/rkttu"><img src="https://img.shields.io/badge/후원하기-♥-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
