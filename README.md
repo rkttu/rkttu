@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Software Engineer · Documentation Engineer · Microsoft MVP since 2009</strong><br/>
-  <em>.NET ecosystem builder — dev tools, MCP servers, open-source projects & Korea's largest .NET community.</em>
+  <em>Open-source dev tools bridging .NET, Cloud & AI · Korea's largest .NET community leader</em>
 </p>
 
 <p align="center">
