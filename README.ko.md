@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>솔루션 아키텍트 · Microsoft MVP 17년 연속 수상 · 오픈소스 창작자</strong><br/>
-  <em>.NET, 클라우드, AI를 잇는 다리를 놓습니다 — 20년 넘게.</em>
+  <strong>소프트웨어 엔지니어 · 도큐멘테이션 엔지니어 · Microsoft MVP (2009~)</strong><br/>
+  <em>개발 도구와 MCP 서버를 만들고, 오픈소스를 공개하고, 한국 최대 규모 .NET 커뮤니티를 운영합니다.</em>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 | --- | --- |
 | 🏅 **17년 연속** | Microsoft MVP — Developer Technologies 부문 (2009 – 현재) |
 | 💼 **24년** | 전문 소프트웨어 엔지니어링 경력 (2002년부터) |
-| 🌏 **한국 최대** | **[dotnetdev](https://github.com/dotnetdev-kr)** — 한국 최대 .NET 개발자 커뮤니티 설립 |
+| 🌏 **한국 최대** | **[닷넷데브](https://github.com/dotnetdev-kr)** — 한국 최대 .NET 개발자 커뮤니티 설립 |
 | 📦 **다수의 NuGet 패키지** | nuget.org에 발행 및 활발히 유지보수 중 |
 | 📰 **언론 보도** | ETNews, Notion Customer Stories (글로벌 베스트 프랙티스) |
 | 🤖 **AI 도구 개발자** | MCP 서버, RAG 파이프라인, AI 기반 개발자 워크플로우 |
@@ -105,7 +105,7 @@
 | 프로젝트 | 설명 |
 | --- | --- |
 | **[HandMirrorMcp](https://github.com/rkttu/HandMirrorMcp)** | AI 코딩 에이전트가 **실제 .NET 어셈블리와 NuGet 패키지를 직접 확인**할 수 있게 해주는 MCP 서버. API 할루시네이션을 방지합니다. *"코드를 쓰기 전에 먼저 확인하세요."* |
-| **[Reconsidered RAG](https://github.com/rkttu/reconsidered_rag)** | **데이터 준비와 임베딩을 분리**하는 프로덕션 RAG 파이프라인. 문서 → Markdown(검사 가능) → Parquet(재임베딩 가능). *"준비를 먼저, 임베딩은 나중에."* |
+| **Reconsidered RAG** | 임베딩에서 데이터 준비를 분리한 RAG 아키텍처를 직접 설계했습니다 — "준비가 먼저, 임베딩은 나중에." [설계 사상 보기 →](https://gist.github.com/rkttu/091142aed5c7db91b1c65cb55277cd38) |
 
 #### 📄 문서 처리
 
